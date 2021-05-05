@@ -5,7 +5,7 @@
 # Version 1 Archive Branch
 
 This is version 1 of my clone of space invaders part II which used the first version of my engine
-pixrex, and before the complete overhaul/refactor of the game code. I am archiving it here to
+pixiretro, and before the complete overhaul/refactor of the game code. I am archiving it here to
 store a seperate record of the project before the stated changes.
 
 # Space Invaders Part II ... Tribute :space_invader: :guitar:
