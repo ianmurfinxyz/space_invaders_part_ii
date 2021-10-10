@@ -2162,7 +2162,7 @@ void Engine::onUpdateTick(Duration_t gameNow, Duration_t gameDt, Duration_t real
 
 void Engine::onDrawTick(Duration_t gameNow, Duration_t gameDt, Duration_t realDt, float tickDt)
 {
-  pxr::renderer->clearWindow(colors::jet);
+  pxr::renderer->clearWindow(colors::black);
 
   double now = durationToSeconds(gameNow);
 
