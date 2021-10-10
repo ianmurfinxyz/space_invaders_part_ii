@@ -2,16 +2,10 @@
   <img src="img/invaders.png" alt="crab octopus squid cuttle"/>
 </p>
 
-# Version 1 Archive Branch
-
-This is version 1 of my clone of space invaders part II which used the first version of my engine
-pixiretro, and before the complete overhaul/refactor of the game code. I am archiving it here to
-store a seperate record of the project before the stated changes.
-
 # Space Invaders Part II ... Tribute :space_invader: :guitar:
 
 Just a tribute to the best classic arcade :floppy_disk: :joystick: game in the world. One I wanted to make since I first started 
-programming. So here it is...enjoy! :partying_face: 
+programming.
 
 <p align="center">
   <img src="img/splash.gif" alt="splash screen and menu"/>
@@ -20,8 +14,8 @@ programming. So here it is...enjoy! :partying_face:
 ## Rendering
 
 This is clone of the 1979 game space invaders part II implemented in C++ with a single file custom 
-engine using SDL2 and Opengl 2.1 (because my computer is kinda old :persevere:). SDL2 is used 
-for window management and to create the Opengl context whereas Opengl is used for all rendering.
+engine using SDL2 and Opengl 2.1. SDL2 is used for window management and to create the Opengl context 
+whereas Opengl is used for all rendering.
 
 The engine uses a somewhat novel approach to rendering (because I thought it would be fun, even
 if not fast on modern hardware) in that all fonts and sprites are rendered as pure bitmap data using 
@@ -46,5 +40,3 @@ then you can compile by running make,
 ```shell
 $ make
 ```
-
-random change

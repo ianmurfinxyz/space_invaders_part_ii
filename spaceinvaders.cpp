@@ -380,7 +380,7 @@ void SplashState::doEvents()
       {
       SpaceInvaders* si = static_cast<SpaceInvaders*>(_app);
       HUD& hud = si->getHud();
-      std::string text {"*A Tribute by Pixrex*"};
+      std::string text {"*Remake by ianmurfinxyz*"};
       _uidAuthor = hud.addTextLabel({Vector2i{32, 24} * _worldScale, pxr::colors::cyan, text});
       si->showHud();
       si->hideLivesHud();
