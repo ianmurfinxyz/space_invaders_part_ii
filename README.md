@@ -11,6 +11,8 @@ programming.
   <img src="img/splash.gif" alt="splash screen and menu"/>
 </p>
 
+**Video playthrough available on [youtube](https://www.youtube.com/watch?v=xE6GlXscZvc).**
+
 ## Rendering
 
 This is clone of the 1979 game space invaders part II implemented in C++ with a single file custom 
